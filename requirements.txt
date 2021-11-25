@@ -1,0 +1,4 @@
+redis
+bs4
+#sendemail
+requests
