@@ -2,3 +2,5 @@ redis
 bs4
 #sendemail
 requests
+#pip install influxdb-client[ciso]  # ciso is a faster datetime parser in C, but it's giving me trouble in pyenv (#include "Python.h")
+pip install influxdb-client  # without ciso
